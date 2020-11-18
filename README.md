@@ -5,3 +5,4 @@ This Application Generate Offline QR & BarCode
 
 
       Shahbaz Shabbir (Computer Software Engineer)
+      
