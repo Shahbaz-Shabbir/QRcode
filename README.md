@@ -10,7 +10,7 @@ I Include Some New Features and Make Professional Design in this update
                                                                       
 
 # 27-April-2021
-I Include Some New Features
+I Include Some New Features in this Update
                                                                       
                                                                       [Updated By Shahbaz Shabbir]
 
