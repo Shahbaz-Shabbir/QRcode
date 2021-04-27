@@ -5,11 +5,13 @@ This Application Generate Offline QR & BarCode
                                                 [Updated]
 # 29-March-2021
 I Include Some New Features and Make Professional Design in this update
+                                                                      
                                                                       [Updated By Shahbaz Shabbir]
                                                                       
 
-# 26-April-2021
+# 27-April-2021
 I Include Some New Features
+                                                                      
                                                                       [Updated By Shahbaz Shabbir]
 
 
