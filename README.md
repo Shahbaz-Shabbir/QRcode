@@ -4,25 +4,28 @@ This Windows Application Proudly Developed By Shahbaz Shabbir
 This Application Generate Offline QR & BarCode
                                                 [Updated]
 # 29-March-2021
-I Include Some New Features and Make Professional Design in this update
+Developer Include Some New Features and Make Professional Design in this update
                                                                       
                                                                       [Updated By Shahbaz Shabbir]
                                                                       
 
 # 27-April-2021
-I Include Some New Features in this Update
+Developer Include Some New Features in this Update
                                                                       
                                                                       [Updated By Shahbaz Shabbir]
                                                                       
 # 30-May-2021
-I Include Update tool, Some New Features and Make Professional Design in this update
+Developer Include Update tool, Some New Features and Make Professional Design in this update
                                                                       
                                                                       [Updated By Shahbaz Shabbir]
 
+# 22-Sept-2021
+Developer Update Licence Key and Security programs
+                                                                      
+                                                                      [Updated By Shahbaz Shabbir]
 
-
-
-# Shahbaz Shabbir (Computer Software Engineer)
+ 
+# Developer Shahbaz Shabbir (Computer Software Engineer)
 
 
       Shahbaz Shabbir (Computer Software Engineer)
