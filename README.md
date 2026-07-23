@@ -24,6 +24,11 @@ Developer Update Licence Key and Security programs
                                                                       
                                                                       [Updated By Shahbaz Shabbir]
 
+# Username and Password
+User Name: admin
+Password: qrmaster
+                                                                      
+                                                                      [Updated By Shahbaz Shabbir]
  
 # Developer Shahbaz Shabbir (Computer Software Engineer)
 
